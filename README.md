@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-first project for testing
+The first project for study & testing.
+
